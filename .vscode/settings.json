@@ -1,0 +1,27 @@
+{
+    "typescript.tsdk": "node_modules\\typescript\\lib",
+  
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode",
+      "editor.tabSize": 2,
+      "editor.formatOnSave": true,
+      "editor.insertSpaces": true,
+      "editor.detectIndentation": false
+    },
+    "[jsonc]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode",
+      "editor.tabSize": 2,
+      "editor.formatOnSave": true,
+      "editor.insertSpaces": true,
+      "editor.detectIndentation": false
+    },
+  
+    "[json]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode",
+      "editor.tabSize": 2,
+      "editor.formatOnSave": true,
+      "editor.insertSpaces": true,
+      "editor.detectIndentation": false
+    }
+  }
+  
